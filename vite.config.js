@@ -7,5 +7,5 @@ export default defineConfig({
   // ADD THIS LINE FOR GITHUB PAGES DEPLOYMENT
   // Replace 'your-repository-name' with the actual name of your GitHub repository.
   // For example, if your repository is named 'zensenstock-front', it would be '/zensenstock-front/'
-  base: '/zensenstock-front/', 
+  base: '/zensestock-front/', 
 })
